@@ -485,7 +485,7 @@ div {
   align-items: center;
   justify-content: center;
   background-color: var(--overlay-card);
-  bottom: 1px;
+  bottom: 0;
 }
 
 .overlay-project-text {
